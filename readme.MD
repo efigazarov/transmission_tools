@@ -1,8 +1,3 @@
-Here is a `README.md` file that documents your Transmission resume recovery and reconfiguration process:
-
----
-
-````markdown
 # Transmission Resume Recovery & Reconfiguration
 
 This guide outlines the process to restore `.resume` files, analyze them, and reconfigure torrent locations in a Transmission Docker setup.
@@ -21,7 +16,7 @@ This guide outlines the process to restore `.resume` files, analyze them, and re
 
 ```bash
 docker stop transmission && docker rm transmission
-````
+```
 
 ---
 
@@ -100,13 +95,6 @@ This script reads `results.txt` and uses the Transmission RPC to reassign torren
 
 ## Notes
 
-* The `resume_analysis.py` script parses resume files into a human-readable format.
-* The `set_locations_based_on_resume_analysis.py` script reads that output and configures Transmission.
-* Ensure Transmission RPC credentials and endpoint match your container config.
-
----
-
-```
-
-```
-
+- The `resume_analysis.py` script parses resume files into a human-readable format.
+- The `set_locations_based_on_resume_analysis.py` script reads that output and configures Transmission.
+- Ensure Transmission RPC credentials and endpoint match your container config.
