@@ -1,0 +1,48 @@
+
+=== 6704a8b1bb2d54a67f47719d42d60d378cfff0cb.resume ===
+activity-date: 1740987825
+added-date: 1630504761
+bandwidth-priority: 0
+corrupt: 0
+destination: /downloads/wdeasystore/torrents/console
+dnd: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+done-date: 1630530029
+downloaded: 8784487112
+downloading-time-seconds: 10861
+idle-limit: OrderedDict([(b'idle-limit', 30), (b'idle-mode', 0)])
+labels: []
+max-peers: 50
+name: Some_Torrent.zip
+paused: 1
+priority: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+progress: OrderedDict([(b'blocks', b'all'), (b'have', b'all'), (b'time-checked', [16306647
+ratio-limit: OrderedDict([(b'ratio-limit', b'2.000000'), (b'ratio-mode', 0)])
+seeding-time-seconds: 22209311
+speed-limit-down: OrderedDict([(b'speed-Bps', 100000), (b'use-global-speed-limit', 1), (b'use-spee
+speed-limit-up: OrderedDict([(b'speed-Bps', 100000), (b'use-global-speed-limit', 1), (b'use-spee
+uploaded: 9748410800
+
+=== ca9fd1bbcf117bf340a5169a5b3ce6bb438a9f69.resume ===
+activity-date: 1740225359
+added-date: 1629882277
+bandwidth-priority: 0
+corrupt: 0
+destination: /downloads/usbshare1
+dnd: [0, 0]
+done-date: 0
+downloaded: 0
+downloading-time-seconds: 0
+idle-limit: OrderedDict([(b'idle-limit', 30), (b'idle-mode', 0)])
+incomplete-dir: /downloads/incomplete
+labels: []
+max-peers: 50
+name: OtherTorrent.zip
+paused: 0
+priority: [0, 0]
+progress: OrderedDict([(b'blocks', b'all'), (b'have', b'all'), (b'time-checked', [16298864
+ratio-limit: OrderedDict([(b'ratio-limit', b'2.000000'), (b'ratio-mode', 0)])
+seeding-time-seconds: 21692450
+speed-limit-down: OrderedDict([(b'speed-Bps', 100000), (b'use-global-speed-limit', 1), (b'use-spee
+speed-limit-up: OrderedDict([(b'speed-Bps', 100000), (b'use-global-speed-limit', 1), (b'use-spee
+uploaded: 1270227004
+
